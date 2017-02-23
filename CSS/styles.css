@@ -1,0 +1,54 @@
+body {
+	font-family: 'Lato', sans-serif;
+	background-image: url("../Files/wave.png");
+}
+
+div {
+    width: 690px;
+    height: 225px;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+
+    text-align: center;
+}
+
+h1 {
+	font-weight: 'Black';
+	margin-bottom: 5px;
+}
+
+.title {
+	font-weight: 'Medium';
+	color: #C5C5C5;
+}
+
+h3 {
+	color: #fff;
+	margin-top: 0;
+}
+
+a {
+	font-weight: 'Light';
+	text-decoration: none;
+	color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
